@@ -1,2 +1,2 @@
 # repository-for-pixie
-Test.rar is the project
+Test.rar is the project.
